@@ -1,1 +1,1 @@
-# AI-Fitness-Assistant-
+# AI-Fitness-Assistant
